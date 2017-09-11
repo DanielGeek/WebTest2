@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "webtest2",
-    "currentPage": "index.html",
+    "currentPage": "master.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -13,17 +13,17 @@
       ]
     },
     "versionFirst": "4.2.5",
-    "uniqCompNum": 17,
+    "uniqCompNum": 23,
     "versionPublish": "4.2.5",
     "favicon": "",
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "master.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "master",
+        "meta_descr": "Maste Page",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
